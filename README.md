@@ -1,5 +1,5 @@
 ## My Internship Reports:
-1. #### M1Internship_TURKER.pdf
+* #### M1Internship_TURKER.pdf
   
   ### Speckle Statistics
   ###### @ Complex Media Optics Laboratory in LKB of ENS Paris
@@ -11,7 +11,7 @@
   
   ---
   
-2. #### stage_SYRTE_TUKER.pdf
+* #### stage_SYRTE_TUKER.pdf
   
   ### Positionnement Relatif (Relative Positioning)
   
@@ -24,7 +24,7 @@
   
   ---
   
-3. #### M2Internship_Defence.pdf
+* #### M2Internship_Defence.pdf
 
   ### Modified gravity under scrutiny – testing MOND with pairs of SDSS MaNGA galaxies - _PRESENTATION_
   
