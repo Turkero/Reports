@@ -39,7 +39,7 @@
     
 * #### Compton_effect_article_NPAC_TL.pdf
 
-  ### Modified gravity under scrutiny – testing MOND with pairs of SDSS MaNGA galaxies
+  ### Modified gravity under scrutiny – testing MOND with pairs of SDSS MaNGA galaxies - _mid-report (synopsis)_
   
   ###### @ GALECHOS in Strasbourg Observatory
   
