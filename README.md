@@ -33,3 +33,34 @@
   ###### Supervisor: _Oliver MÜLLER_ and _Benoit FAMAEY_
   
   ###### Year: 2021
+  
+  
+  ---
+    
+* #### Compton_effect_article_NPAC_TL.pdf
+
+  ### Modified gravity under scrutiny – testing MOND with pairs of SDSS MaNGA galaxies
+  
+  ###### @ GALECHOS in Strasbourg Observatory
+  
+  ###### Supervisor: _Oliver MÜLLER_ and _Benoit FAMAEY_
+  
+  ###### Year: 2021
+  
+  
+  ---
+    
+* #### Compton_effect_article_NPAC_TL.pdf
+
+  ### Experimental review of theoretical predictions on the Compton effect
+  
+  ###### @ NPAC Lab. Projects w/ Thibault Barnouin & LivioRedard-Jacot
+  
+  ###### Supervisor: _Wilfrid da Silva_ 
+  
+  ###### Year: 2021
+  
+  
+
+  
+  
